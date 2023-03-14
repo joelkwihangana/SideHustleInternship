@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+}
+.container{
+    padding: 2rem;
+}
+.form{
+    width: 50%;
+    margin-top: 5rem;
+    margin-left: 290px;
+    padding: 1rem;
+}
+.form form{
+    display: flex;
+    flex-direction: column;
+}
+.form form input{
+    padding: 10px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
